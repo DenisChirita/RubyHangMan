@@ -1,0 +1,20 @@
+---
+:secret_word: rebound
+:number_of_incorrect_guesses_left: 4
+:used_letters: !ruby/object:Set
+  hash:
+    a: true
+    e: true
+    i: true
+    m: true
+    n: true
+    p: true
+:number_of_guessed_letters: 2
+:guessed_word:
+- _
+- e
+- _
+- _
+- _
+- n
+- _

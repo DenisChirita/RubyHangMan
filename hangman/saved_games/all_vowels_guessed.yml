@@ -1,0 +1,20 @@
+---
+:secret_word: sections
+:number_of_incorrect_guesses_left: 6
+:used_letters: !ruby/object:Set
+  hash:
+    a: true
+    d: true
+    e: true
+    i: true
+    o: true
+:number_of_guessed_letters: 3
+:guessed_word:
+- _
+- e
+- _
+- _
+- i
+- o
+- _
+- _

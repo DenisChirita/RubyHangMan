@@ -1,0 +1,24 @@
+---
+:secret_word: perceived
+:number_of_incorrect_guesses_left: 3
+:used_letters: !ruby/object:Set
+  hash:
+    e: true
+    f: true
+    h: true
+    s: true
+    v: true
+    g: true
+    i: true
+    a: true
+:number_of_guessed_letters: 5
+:guessed_word:
+- _
+- e
+- _
+- _
+- e
+- i
+- v
+- e
+- _

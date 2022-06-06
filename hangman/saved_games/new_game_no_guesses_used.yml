@@ -1,0 +1,13 @@
+---
+:secret_word: county
+:number_of_incorrect_guesses_left: 8
+:used_letters: !ruby/object:Set
+  hash: {}
+:number_of_guessed_letters: 0
+:guessed_word:
+- _
+- _
+- _
+- _
+- _
+- _

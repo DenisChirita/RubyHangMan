@@ -1,0 +1,13 @@
+---
+:secret_word: blank
+:number_of_incorrect_guesses_left: 7
+:used_letters: !ruby/object:Set
+  hash:
+    d: true
+:number_of_guessed_letters: 0
+:guessed_word:
+- _
+- _
+- _
+- _
+- _
