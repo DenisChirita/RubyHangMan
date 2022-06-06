@@ -1,0 +1,1 @@
+run= "cd hangman; ruby lib/hangman.rb"

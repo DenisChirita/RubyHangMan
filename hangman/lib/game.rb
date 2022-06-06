@@ -91,7 +91,7 @@ class Game
     end
     
     def select_random_word(minimum_length, maximum_length, english_dictionary)
-        words_with_right_size = english_dictionary.filter{|word| word.length>=minimum_length && word.length<=maximum_length} 
+        words_with_right_size = english_dictionary.select{|word| word.length>=minimum_length && word.length<=maximum_length} 
         words_with_right_size[rand(words_with_right_size.length)] 
     end
 
